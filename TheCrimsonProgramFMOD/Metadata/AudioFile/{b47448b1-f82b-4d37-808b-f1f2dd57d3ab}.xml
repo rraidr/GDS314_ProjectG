@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{b47448b1-f82b-4d37-808b-f1f2dd57d3ab}">
 		<property name="assetPath">
-			<value>Empty warehouse ambience, room tone, quiet, hum, fans, occasional traffic noise from outside.mp3</value>
+			<value>2D Ambience/Empty warehouse ambience, room tone, quiet, hum, fans, occasional traffic noise from outside.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

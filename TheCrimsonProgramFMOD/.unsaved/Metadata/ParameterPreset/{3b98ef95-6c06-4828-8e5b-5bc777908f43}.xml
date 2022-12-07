@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{3b98ef95-6c06-4828-8e5b-5bc777908f43}">
+		<property name="name">
+			<value>HallwayVolume</value>
+		</property>
+		<relationship name="folder">
+			<destination>{0648cb2b-de7a-41c7-a001-8a75b8a72829}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{b6342c09-2f08-4228-bd4a-2c72059cf84d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{b6342c09-2f08-4228-bd4a-2c72059cf84d}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
