@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{9c91d2e5-640a-415c-8a09-8c642354ea3f}">
+	<object class="AudioFile" id="{5a98d194-df93-4c40-9247-7e4def135666}">
 		<property name="assetPath">
-			<value>2D Ambience/Deep space, outer space ambience, airy and spacious, desolate, empty drone 1.mp3</value>
-		</property>
-		<property name="isStreaming">
-			<value>true</value>
+			<value>3D SFX/Keycard Deny.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>100.032</value>
+			<value>1.3061224489795917</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{a96f8998-5dd7-456d-ad22-3065fa9db0bb}</destination>
