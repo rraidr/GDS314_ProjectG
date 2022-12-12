@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a80acd5a-07fd-4fa1-bf2f-e19113ad0e12}">
+		<property name="assetPath">
+			<value>felix_blume_industrial_power_plant_ambience_large_reveberant_building_construction_work_in_background.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>79.847999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a96f8998-5dd7-456d-ad22-3065fa9db0bb}</destination>
+		</relationship>
+	</object>
+</objects>
