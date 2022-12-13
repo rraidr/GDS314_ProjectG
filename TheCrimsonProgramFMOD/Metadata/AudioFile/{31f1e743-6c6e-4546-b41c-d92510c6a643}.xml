@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{31f1e743-6c6e-4546-b41c-d92510c6a643}">
+		<property name="assetPath">
+			<value>zapsplat_foley_footstep_single_female_leather_shoe_on_concrete_street_004_50927.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.40799999999999997</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a96f8998-5dd7-456d-ad22-3065fa9db0bb}</destination>
+		</relationship>
+	</object>
+</objects>
