@@ -155,6 +155,7 @@
 		<relationship name="effects">
 			<destination>{6330383b-ebeb-4a08-9c41-aca6331091a0}</destination>
 			<destination>{f2b07ec3-3c11-426a-bcbc-01f96921e9c7}</destination>
+			<destination>{b8cf80b9-3ec6-46f8-aa03-6d2d65dfd98f}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{0e30c12d-e9fc-457a-969c-103580307be3}" />
@@ -185,6 +186,14 @@
 		<property name="overrideRange">
 			<value>true</value>
 		</property>
+	</object>
+	<object class="MixerSend" id="{b8cf80b9-3ec6-46f8-aa03-6d2d65dfd98f}">
+		<property name="inputFormat">
+			<value>2</value>
+		</property>
+		<relationship name="mixerReturn">
+			<destination>{551b8604-c7f0-45a5-a4a7-ccca79510db4}</destination>
+		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{6202b8e2-f02f-438f-83f4-2b28383061f2}" />
 	<object class="PitchShifterEffect" id="{1046d057-5fb6-4670-b0d3-e485f4f3ca76}">
